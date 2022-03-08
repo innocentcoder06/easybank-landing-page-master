@@ -25,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![Frontend Mentor | Easybank landing page](./screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/innocentcoder06/easybank-landing-page-master)
+- Live Site URL: [Netlify](https://nanthagopal-s-easy-bank.netlify.app/)
 
 ## My process
 
